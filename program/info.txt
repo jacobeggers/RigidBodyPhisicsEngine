@@ -1,0 +1,2 @@
+NOTE: This program is still framerate dependent due to the fact that I haven't implemented delta time as of now. Currently the speed of the program will vary depending
+on the computer this program is run on. 
